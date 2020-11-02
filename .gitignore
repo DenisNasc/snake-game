@@ -1,0 +1,12 @@
+.DS_Store
+
+*.py[co]
+
+docs/index.md
+site/
+
+# PyCharm IDE
+.idea
+
+# VS Code Python cache
+__pycache__
